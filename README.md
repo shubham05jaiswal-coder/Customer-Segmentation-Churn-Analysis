@@ -42,5 +42,8 @@ CSV/Excel → Python validation and ETL → PostgreSQL raw/staging/analytics sch
 ## GitHub description
 Customer segmentation and churn analytics using PostgreSQL, Python, RFM analysis, K-Means clustering, churn-risk modeling, and Power BI. Includes reproducible ETL, sample data, SQL reporting views, DAX measures, and tests.
 
+## Important
+The project is packaged with synthetic data and implementation code. Run it against your PostgreSQL installation and validate the pipeline before presenting results. The claimed 15% retention improvement should be treated as a target until demonstrated with real business data and a measured retention experiment.
+
 ## Suggested topics
 `customer-segmentation` `churn-analysis` `postgresql` `python` `scikit-learn` `power-bi` `etl` `rfm-analysis`
