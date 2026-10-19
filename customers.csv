@@ -1,0 +1,121 @@
+customer_id,signup_date,country,acquisition_channel,is_churned
+C0001,2024-02-17,India,Organic,0
+C0002,2023-10-22,India,Organic,0
+C0003,2023-09-07,Canada,Organic,1
+C0004,2024-10-10,India,Paid Search,0
+C0005,2023-09-23,India,Social,1
+C0006,2023-07-11,India,Organic,0
+C0007,2024-09-05,India,Referral,1
+C0008,2023-02-12,United States,Email,0
+C0009,2023-11-06,India,Email,1
+C0010,2023-08-06,United States,Referral,1
+C0011,2023-01-21,Canada,Email,1
+C0012,2024-05-17,India,Referral,0
+C0013,2024-11-28,Canada,Email,0
+C0014,2024-06-30,India,Email,0
+C0015,2023-08-14,United Kingdom,Referral,0
+C0016,2024-01-13,India,Social,0
+C0017,2024-08-16,India,Social,1
+C0018,2023-08-07,United Kingdom,Email,1
+C0019,2023-10-25,United Kingdom,Email,0
+C0020,2024-10-03,India,Referral,0
+C0021,2023-05-17,United States,Paid Search,0
+C0022,2024-10-11,India,Email,0
+C0023,2024-04-18,India,Referral,0
+C0024,2023-11-02,India,Email,0
+C0025,2024-07-05,India,Referral,0
+C0026,2023-10-14,India,Social,1
+C0027,2023-09-09,India,Paid Search,0
+C0028,2024-03-05,India,Email,0
+C0029,2024-10-07,Canada,Email,0
+C0030,2024-05-14,Canada,Social,1
+C0031,2024-04-13,United States,Organic,0
+C0032,2024-03-10,India,Organic,0
+C0033,2024-08-10,United Kingdom,Paid Search,0
+C0034,2023-10-31,India,Email,1
+C0035,2024-06-03,India,Email,0
+C0036,2023-11-06,India,Email,0
+C0037,2024-02-28,United States,Social,0
+C0038,2024-03-28,United Kingdom,Social,1
+C0039,2023-09-15,Canada,Paid Search,0
+C0040,2024-10-04,United Kingdom,Paid Search,0
+C0041,2023-06-19,India,Paid Search,0
+C0042,2023-02-03,India,Paid Search,0
+C0043,2024-06-04,United States,Referral,0
+C0044,2023-03-04,India,Referral,0
+C0045,2024-01-17,India,Social,0
+C0046,2024-06-17,United States,Paid Search,1
+C0047,2023-04-28,India,Referral,0
+C0048,2023-11-18,India,Paid Search,1
+C0049,2024-02-08,India,Paid Search,1
+C0050,2024-06-28,India,Email,0
+C0051,2023-12-17,United States,Organic,1
+C0052,2024-01-13,India,Social,1
+C0053,2024-01-23,Canada,Social,0
+C0054,2023-11-20,United Kingdom,Organic,0
+C0055,2023-01-22,India,Email,0
+C0056,2024-10-29,India,Paid Search,0
+C0057,2024-08-06,United States,Organic,1
+C0058,2023-09-15,India,Referral,0
+C0059,2023-09-13,United Kingdom,Referral,0
+C0060,2024-03-28,United States,Social,0
+C0061,2024-09-15,United Kingdom,Social,1
+C0062,2024-01-16,India,Paid Search,1
+C0063,2023-07-11,United Kingdom,Referral,0
+C0064,2023-03-19,Canada,Social,0
+C0065,2023-12-22,United Kingdom,Organic,0
+C0066,2023-04-28,India,Organic,1
+C0067,2024-02-21,India,Organic,0
+C0068,2024-07-26,India,Social,0
+C0069,2024-07-04,India,Email,0
+C0070,2024-01-01,India,Paid Search,0
+C0071,2023-04-08,India,Paid Search,0
+C0072,2024-04-20,India,Referral,1
+C0073,2023-05-05,United Kingdom,Paid Search,0
+C0074,2023-11-14,India,Paid Search,0
+C0075,2023-05-22,India,Social,0
+C0076,2024-08-17,India,Social,0
+C0077,2023-02-10,India,Organic,0
+C0078,2024-08-19,India,Organic,1
+C0079,2023-07-01,India,Referral,0
+C0080,2023-10-29,India,Organic,0
+C0081,2023-10-17,India,Paid Search,1
+C0082,2023-04-01,Canada,Organic,0
+C0083,2024-06-24,India,Organic,1
+C0084,2024-08-04,India,Email,1
+C0085,2024-06-28,India,Email,1
+C0086,2023-12-16,India,Referral,0
+C0087,2024-10-09,India,Organic,1
+C0088,2024-01-25,India,Paid Search,1
+C0089,2024-02-18,India,Social,1
+C0090,2023-12-22,India,Social,0
+C0091,2024-01-04,India,Email,0
+C0092,2023-01-26,India,Paid Search,0
+C0093,2024-08-23,India,Email,1
+C0094,2023-12-25,India,Paid Search,0
+C0095,2023-03-29,India,Social,1
+C0096,2023-03-09,United States,Email,0
+C0097,2024-10-09,United States,Paid Search,0
+C0098,2023-02-13,United Kingdom,Social,0
+C0099,2024-06-26,India,Paid Search,0
+C0100,2024-08-02,India,Organic,0
+C0101,2024-02-05,United States,Paid Search,1
+C0102,2023-04-10,Canada,Organic,0
+C0103,2023-11-24,India,Email,0
+C0104,2024-05-20,India,Email,0
+C0105,2023-01-24,India,Email,0
+C0106,2023-11-04,India,Referral,0
+C0107,2023-12-02,India,Paid Search,0
+C0108,2023-12-18,India,Email,0
+C0109,2024-06-28,India,Email,0
+C0110,2023-12-22,India,Paid Search,0
+C0111,2023-06-29,United States,Email,0
+C0112,2023-04-28,United States,Paid Search,0
+C0113,2024-01-28,United Kingdom,Referral,0
+C0114,2023-02-14,India,Organic,0
+C0115,2023-01-29,United States,Referral,0
+C0116,2024-03-22,India,Paid Search,0
+C0117,2023-12-23,India,Email,0
+C0118,2023-03-13,India,Organic,0
+C0119,2023-02-08,India,Email,0
+C0120,2023-02-15,India,Social,0

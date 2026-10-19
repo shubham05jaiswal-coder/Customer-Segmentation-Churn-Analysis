@@ -1,0 +1,1 @@
+pandas>=2.1,<3.0\nnumpy>=1.26\nSQLAlchemy>=2.0\npsycopg2-binary>=2.9\npython-dotenv>=1.0\nscikit-learn>=1.4\njoblib>=1.3\nopenpyxl>=3.1\npytest>=8.0\n

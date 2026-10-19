@@ -1,0 +1,1 @@
+.venv/\n__pycache__/\n.env\nartifacts/\n.pytest_cache/\n

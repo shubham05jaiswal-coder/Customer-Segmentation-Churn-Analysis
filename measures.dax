@@ -1,0 +1,21 @@
+Total Customers = DISTINCTCOUNT(customer_rfm[customer_id])
+
+Churned Customers = CALCULATE([Total Customers], customer_rfm[is_churned] = 1)
+
+Active Customers = CALCULATE([Total Customers], customer_rfm[is_churned] = 0)
+
+Churn Rate % = DIVIDE([Churned Customers], [Total Customers], 0)
+
+Retention Rate % = 1 - [Churn Rate %]
+
+Average Recency (Days) = AVERAGE(customer_rfm[recency_days])
+
+Average Purchase Frequency = AVERAGE(customer_rfm[frequency])
+
+Total Customer Monetary Value = SUM(customer_rfm[monetary])
+
+High Risk Customers = CALCULATE(DISTINCTCOUNT(churn_predictions[customer_id]), churn_predictions[risk_band] = "High")
+
+Average Churn Probability = AVERAGE(churn_predictions[churn_probability])
+
+Completed Revenue = CALCULATE(SUM(transactions[amount]), transactions[status] = "completed")
